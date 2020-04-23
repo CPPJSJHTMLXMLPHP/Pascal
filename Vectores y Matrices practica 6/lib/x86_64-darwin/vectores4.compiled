@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/local/bin/fpc" Date="1538326665"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw -gl -k-framework -kCocoa -l -vewnhibq -Fu/Library/Lazarus/lcl/units/x86_64-darwin/cocoa -Fu/Library/Lazarus/lcl/units/x86_64-darwin -Fu/Library/Lazarus/components/lazutils/lib/x86_64-darwin -Fu/Library/Lazarus/packager/units/x86_64-darwin &quot;-Fu/Users/agustindantuoni/Desktop/Pascal/Vectores y Matrices practica 6/&quot; &quot;-FU/Users/agustindantuoni/Desktop/Pascal/Vectores y Matrices practica 6/lib/x86_64-darwin/&quot; &quot;-FE/Users/agustindantuoni/Desktop/Pascal/Vectores y Matrices practica 6/&quot; &quot;-o/Users/agustindantuoni/Desktop/Pascal/Vectores y Matrices practica 6/vectores4&quot; -dLCL -dLCLcocoa vectores4.pas"/>
+  <Complete Value="False"/>
+</CONFIG>
